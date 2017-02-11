@@ -4,7 +4,7 @@
 
 ## Installation
 
-- Download the [.zip](https://github.com/sirlantis/rubocop-for-rubymine/releases)
+- Download the [.zip](https://github.com/CyberStrike/rubocop-for-rubymine/releases)
 - Got to the Plugins-Settings in your IDE (IDEA/RubyMine).
 - Click "Install plugins from disk..."
 - Select the ZIP
@@ -20,8 +20,8 @@
 
 ### If it still doesn't work...
 
-- Open an [Issue](https://github.com/sirlantis/rubocop-for-rubymine/issues/new).
-- Provide the information asked for in [CONTRIBUTING](https://github.com/sirlantis/rubocop-for-rubymine/blob/master/CONTRIBUTING.md).
+- Open an [Issue](https://github.com/CyberStrike/rubocop-for-rubymine/issues/new).
+- Provide the information asked for in [CONTRIBUTING](https://github.com/CyberStrike/rubocop-for-rubymine/blob/master/CONTRIBUTING.md).
 
 **Important** I will happily merge pull-requests but can't and won't do free support.
 
